@@ -1,0 +1,14 @@
+body{
+	background-color: rgba(0,153,0,0.8);
+}
+.row img{
+
+	
+	width:100%;
+	height: 80%;
+	margin-top: 50px;
+}
+.row p {
+    margin-top: 50px;
+	font-family: sans-serif;
+}
